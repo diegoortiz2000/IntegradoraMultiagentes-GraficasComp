@@ -26,11 +26,11 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-##Modelación de Sistemas Multiagentes con  Gráficas Computacionales 
-##Diego Alberto Ortiz Mariscal A01552000
+## Modelación de Sistemas Multiagentes con  Gráficas Computacionales 
+## Diego Alberto Ortiz Mariscal A01552000
 
-##Actividad integradora
-##Noviembre 24 2021
+## Actividad integradora
+## Noviembre 24 2021
 Descripción del problema 
 Esta es una actividad individual en la que vas a integrar todo lo aprendido hasta el momento. Se  trata de una versión simplificada del reto que se evaluará individualmente: 
 • Las calles pueden tener solo dos carriles 
